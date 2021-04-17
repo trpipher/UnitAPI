@@ -1,0 +1,23 @@
+{
+  "name": "unitapi",
+  "version": "1.0.0",
+  "description": "a unit converter api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trpipher/UnitAPI.git"
+  },
+  "author": "trpipher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trpipher/UnitAPI/issues"
+  },
+  "homepage": "https://github.com/trpipher/UnitAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
